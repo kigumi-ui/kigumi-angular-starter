@@ -1,0 +1,54 @@
+{
+  "name": "kigumi-angular-starter",
+  "description": "Kigumi Angular starter project",
+  "author": "Kigumi UI",
+  "license": "MIT",
+  "homepage": "https://kigumi.style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kigumi-ui/kigumi-angular-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kigumi-ui/kigumi-angular-starter/issues"
+  },
+  "keywords": [
+    "kigumi",
+    "angular",
+    "starter",
+    "project",
+    "webawesome",
+    "webcomponents"
+  ],
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "ng": "ng",
+    "dev": "ng serve",
+    "build": "ng build",
+    "lint": "ng lint",
+    "preview": "ng serve --configuration=production"
+  },
+  "packageManager": "pnpm@10.29.3+sha512.498e1fb4cca5aa06c1dcf2611e6fafc50972ffe7189998c409e90de74566444298ffe43e6cd2acdc775ba1aa7cc5e092a8b7054c811ba8c5770f84693d33d2dc",
+  "dependencies": {
+    "@angular/common": "^21.2.0",
+    "@angular/compiler": "^21.2.0",
+    "@angular/core": "^21.2.0",
+    "@angular/forms": "^21.2.0",
+    "@angular/platform-browser": "^21.2.0",
+    "@awesome.me/webawesome": "^3.5.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@angular-eslint/builder": "21.3.1",
+    "@angular/build": "^21.2.6",
+    "@angular/cli": "^21.2.6",
+    "@angular/compiler-cli": "^21.2.0",
+    "@eslint/js": "^10.0.1",
+    "angular-eslint": "21.3.1",
+    "eslint": "^10.0.3",
+    "typescript": "~5.9.2",
+    "typescript-eslint": "8.56.1"
+  }
+}
