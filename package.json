@@ -26,6 +26,7 @@
     "ng": "ng",
     "dev": "ng serve",
     "build": "ng build",
+    "typecheck": "tsc --noEmit -p tsconfig.app.json",
     "lint": "ng lint",
     "preview": "ng serve --configuration=production"
   },

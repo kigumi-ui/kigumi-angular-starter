@@ -1,0 +1,21 @@
+{
+  "$schema": "https://kigumi.style/schemas/community-registry.json",
+  "name": "kigumi-angular-team",
+  "description": "Example team registry: Angular-based Kigumi compositions. Demonstrates the cross-framework conversion flow used by `kigumi add --from <url> --cross-framework`.",
+  "author": "Kigumi",
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": ["angular"],
+  "components": {
+    "login-example": {
+      "name": "LoginExample",
+      "description": "Login form composed of Card, Input, Button, and Icon. Standalone Angular component with inline template; no separate CSS file.",
+      "category": "Authentication",
+      "files": {
+        "angular": {
+          "component": "src/components/examples/login-example.component.ts"
+        }
+      }
+    }
+  }
+}
