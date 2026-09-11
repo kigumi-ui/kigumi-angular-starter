@@ -17,7 +17,7 @@
   "webAwesome": {
     "version": "3.6.0"
   },
-  "kigumiVersion": "0.22.0",
+  "kigumiVersion": "1.0.0",
   "installedComponents": {
     "Button": {
       "source": "builtin",
