@@ -15,9 +15,9 @@
     "@/styles": "./src/styles"
   },
   "webAwesome": {
-    "version": "3.6.0"
+    "version": "3.13.0"
   },
-  "kigumiVersion": "1.0.0",
+  "kigumiVersion": "1.1.0",
   "installedComponents": {
     "Button": {
       "source": "builtin",
